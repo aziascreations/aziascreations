@@ -9,11 +9,11 @@
   <a href="https://twitter.com/NibblePoker">Twitter</a>
 </h4>
 
-I specialize in minimalistic CLI tools, libraries, self-hosting, electronics and SBCs.
+I specialize in minimalistic CLI tools, libraries, self-hosting and electronics.
 
-🧰 I develop in <b>PureBasic</b>, <b>Python</b>, C99, C#, JS, PHP, <b>VBA</b>, Java, ...</b><br>
+🧰 I develop in <b>C#</b>, <b>PureBasic</b>, <b>Python</b>, JS, C99, PHP, Java, ...</b><br>
 🏅 Made people's day with [Excel Password Remover](https://github.com/aziascreations/Excel-Worksheet-Password-Remover) & [Youtube Auto Archiver](https://github.com/aziascreations/Youtube-Auto-Archiver)<br>
 🌍 Open to contribute to FOSS in my spare time<br>
-✉️ You can hit me up by <b><a href="mailto:herwin.bozet@gmail.com">Email</a></b>, <a href="https://twitter.com/NibblePoker">Twitter</a>, <a href="https://discord.com/channels/@me/220400807558774785/">Discord</a> or <a href="https://libera.chat/">Libera.Chat <sub><sup>(/msg NibblePoker)</sup></sub><br>
+✉️ You can hit me up by <b><a href="mailto:herwin.bozet@gmail.com">Email</a></b>, <a href="https://twitter.com/NibblePoker">Twitter</a> or <a href="https://discord.com/channels/@me/220400807558774785/">Discord</a><br>
 
-Check out the [NibblePoker](https://github.com/NibblePoker) organization on GitHub for more "professional" projects.
+<!--Check out the [NibblePoker](https://github.com/NibblePoker) organization on GitHub for more "professional" projects.-->
